@@ -1,4 +1,4 @@
-Arina Senchukа
+Arina Senchuk
 ----------------------------------
 
 **Phone number:** +375(44)794-39-74  
