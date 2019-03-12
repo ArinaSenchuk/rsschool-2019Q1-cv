@@ -1,0 +1,58 @@
+
+.wrapper {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+
+h1 {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 0px;
+}
+
+.cv-contacts {
+    margin: 10px 0 0 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.cv-photo {
+    width: 160px;
+}
+
+.cv-photo img {
+    width: 100%;
+}
+
+.cv-personalInfo {
+    line-height: 40px;
+    width: 50%;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.cv-personalInfo a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+.cv-main {
+    padding: 0 90px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+p {
+    text-indent: 30px;
+}
+hr {
+    width: 85%;
+}
+
+main {
+    padding-bottom: 10px;
+}
