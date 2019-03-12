@@ -1,15 +1,21 @@
-
 .wrapper {
     width: 1024px;
     margin: 0 auto;
 }
 
+main {
+    padding-bottom: 10px;
+}
 
 h1 {
     padding-top: 10px;
     text-align: center;
     font-size: 35px;
     margin-bottom: 0px;
+}
+
+hr {
+    width: 85%;
 }
 
 .cv-contacts {
@@ -49,10 +55,5 @@ h1 {
 p {
     text-indent: 30px;
 }
-hr {
-    width: 85%;
-}
 
-main {
-    padding-bottom: 10px;
-}
+
